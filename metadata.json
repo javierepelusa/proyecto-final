@@ -1,0 +1,6 @@
+{
+  "name": "MascotaFeliz - Tienda para Mascotas",
+  "description": "Tienda online moderna y completa para productos de perros y gatos, grooming, alimentación, accesorios y pedidos por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
